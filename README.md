@@ -1,5 +1,7 @@
 # 药店/房管理系统 毕业设  联系QQ: 791685330 huaism@126.com
 
+java 项目：https://github.com/huaism/drug
+
 ## Project setup
 ```
 npm install
