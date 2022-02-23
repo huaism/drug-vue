@@ -1,0 +1,33 @@
+@charset 'utf-8';
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body,
+#app,
+.wrapper {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+body {
+    font-family:Arial,"Microsoft YaHei",Helvetica, sans-serif;
+}
+
+a {
+    text-decoration: none
+}
+
+ol, ul {
+	list-style: none;
+}
+h1,h2,h3,h4,h5,h6{font-weight: normal;}
+em,i{font-style: normal;}
+
+.el-transfer-panel { width: 37%;}
+.el-transfer-panel__body{height: 445px;}
+.el-transfer-panel__list.is-filterable{height: 85%;}
