@@ -51,4 +51,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 基础设置：
 ![image](https://user-images.githubusercontent.com/19181634/155346393-3212c80d-cf84-49a9-8830-b3c31c264902.png)
 
+（假设你认为这边文章对你有帮助，请往我的支付宝捐赠 X元，^_^。谢谢！）
+![aex15984jfn2rnncz0ocf63](https://user-images.githubusercontent.com/19181634/159106593-3bf88cd9-d863-4ec6-b3d7-f54961fafeff.png)
+
+
 
